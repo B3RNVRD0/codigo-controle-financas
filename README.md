@@ -1,6 +1,6 @@
-# codigo-controle-financas
+# Controle de Finanças
 
-Nesse projeto executei um controle de finanças com a ajuda dos cursos da RocketSeat e Mayk Brito.
+Nesse projeto executei um controle de finanças com a ajuda dos cursos da RocketSeat e Mayk Brito, usando JavaScript, HTML e CSS.
 
 Há a possibilidade de deletar, editar, adicionar e mover as finanças, também há um cálculo de saldo(negativo ou positivo). 
 
